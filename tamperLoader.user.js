@@ -12,6 +12,6 @@
 
 (function() {
   const script = document.createElement('script');
-  script.src = 'file:///home/ubuntu/Wideo/poszukiwacz.js';
+  script.src = 'https://raw.githubusercontent.com/WojciechBrodecki/tamperScript/main/poszukiwacz.js';
   document.head.appendChild(script);
 })();
